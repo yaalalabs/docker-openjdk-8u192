@@ -1,3 +1,3 @@
-# docker-openjdk-8u192
+# docker-zulu-openjdk-8u192
 
 Docker containing OpenJDK 8u192.
